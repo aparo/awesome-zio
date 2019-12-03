@@ -119,6 +119,7 @@ Based partial on ZIO documentation.
 ## NoSQL
 
 * [ZIO Kafka](https://github.com/zio/zio-kafka): A Kafka client for ZIO and ZIO Streams
+* [zio-kafka-registry](https://github.com/TimPigden/zio-kafka-registry): Project to use zio-kafka in combination with the Confluent Schema Registry.
 * [zio-elasticsearch](https://github.com/aparo/zio-elasticsearch): ElasticSearch client for Scala based on ZIO and FP by [Alberto Paro](https://github.com/aparo) 
 * [elastic4s](https://github.com/sksamuel/elastic4s): Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client
 * [neotypes](https://github.com/neotypes/neotypes): A Scala lightweight, type-safe & asynchronous driver for neo4j
@@ -126,7 +127,7 @@ Based partial on ZIO documentation.
 * [ZIO SQS](https://github.com/zio/zio-sqs): A ZIO-powered client for AWS SQS
 * [ZIO Keeper](https://github.com/zio/zio-keeper): A functional library for consistent replication of metadata across dynamic clusters
 * [SwayDB](https://github.com/simerplaha/SwayDB): [Embeddable persistent & in-memory database](http://www.SwayDB.io)
-
+* [zio-kinesis](https://github.com/svroonland/zio-kinesis): ZIO Kinesis is a ZIO-based wrapper around the AWS Kinesis SDK. All operations are non-blocking. It provides a streaming interface to Kinesis streams. Currently a work in progress.
 
 ## Sample
 
