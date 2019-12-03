@@ -51,6 +51,8 @@ Based partial on ZIO documentation.
 * [GitHub Release Pager with ZIO](https://github.com/psisoyev/release-pager) by [Pavels Sisojevs](https://github.com/psisoyev)
 * [Seed Build Tool](https://github.com/tindzk/seed): by [Tim Nieradzik](https://github.com/tindzk/seed) [Build tool](https://tindzk.github.io/seed/) for Scala projects
 * [A Ray tracer built using ZIO to learn environmental effects](https://github.com/pierangeloc/ray-tracer-zio): by [Pierangelo Cecchetto](https://github.com/pierangeloc) a ray tracer to learn ZIO modules
+* [zio3D](https://github.com/wongelz/zio3d): An experimental 3D game built with ZIO and OpenGL (LWJGL)
+
 
 ## Actor
 
