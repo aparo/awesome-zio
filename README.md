@@ -157,6 +157,7 @@ These libraries are hosted in the [ZIO organization](https://github.com/zio/) on
 
 _These articles reflect the state of ZIO at the time of their publication. The code samples might be outdated, considering ZIO was early in development at the time they were written. However, the concepts are still relevant._
 
+* [Implementing your future with ZIO](https://scala.monster/welcome-zio/) By Pavels Sisojevs (December 2019)
 * [How to write a command line application with ZIO?](https://scalac.io/write-command-line-application-with-zio/) by Piotr Gołębiewski (November 2019)
 * [Simulating IoT Events with ZIO Streams](https://timpigden.github.io/_pages/zio-streams/GeneratingChillEvents.html) by Tim Pigden (November 2019)
 * [Speeding up time with ZIO TestClock](https://timpigden.github.io/_pages/zio-streams/SpeedingUpTime.html) by Tim Pigden (October 2019)
