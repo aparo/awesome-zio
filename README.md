@@ -184,6 +184,8 @@ _These articles reflect the state of ZIO at the time of their publication. The c
 
 ## Talks
 
+* [Magic Tricks with Functional Effects](https://www.youtube.com/watch?v=xpz4rf1RS8c) by John A. De Goes (November 2019)
+* [12 Steps To Better Scala (Part I)](https://www.youtube.com/watch?v=71yhnTGw0hY) by John De Goes (October 2019)
 * [Upgrade Your Future](https://www.youtube.com/watch?v=USgfku1h7Hw) by John De Goes (September 2019)
 * [One Monad to Rule Them All](https://www.youtube.com/watch?v=POUEz8XHMhE) by John De Goes (August 2019)
 * [Functional Concurrency in Scala with ZIO](https://www.youtube.com/watch?v=m5nas4Hndqo) by Itamar Ravid (June 2019)
