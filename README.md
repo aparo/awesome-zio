@@ -92,6 +92,7 @@ Based partial on ZIO documentation.
 * [ZIO HTTP](https://github.com/zio/zio-http): A ZIO-powered HTTP server and client
 * **[Http4s ★ 732 ⧗ 3](https://github.com/http4s/http4s)** - A minimal, idiomatic Scala interface for HTTP.
 * [sttp](https://github.com/softwaremill/sttp) - The Scala HTTP client you always wanted!
+* [zio-google-cloud-oauth2](https://github.com/jkobejs/zio-google-cloud-oauth2) - zio-google-cloud-ouath2 is effectful API for [Google OAuth 2.0](https://developers.google.com/identity/protocols/OAuth2) flows for Scala.
 
 
 ## IO
@@ -130,6 +131,8 @@ Based partial on ZIO documentation.
 * [ZIO Keeper](https://github.com/zio/zio-keeper): A functional library for consistent replication of metadata across dynamic clusters
 * [SwayDB](https://github.com/simerplaha/SwayDB): [Embeddable persistent & in-memory database](http://www.SwayDB.io)
 * [zio-kinesis](https://github.com/svroonland/zio-kinesis): ZIO Kinesis is a ZIO-based wrapper around the AWS Kinesis SDK. All operations are non-blocking. It provides a streaming interface to Kinesis streams. Currently a work in progress.
+* [zio-rocksdb](https://github.com/zio/zio-rocksdb): A ZIO-based interface to RocksDB.
+
 
 ## Sample
 
