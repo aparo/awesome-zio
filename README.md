@@ -52,6 +52,10 @@ Based partial on ZIO documentation.
 * [Seed Build Tool](https://github.com/tindzk/seed): by [Tim Nieradzik](https://github.com/tindzk/seed) [Build tool](https://tindzk.github.io/seed/) for Scala projects
 * [A Ray tracer built using ZIO to learn environmental effects](https://github.com/pierangeloc/ray-tracer-zio): by [Pierangelo Cecchetto](https://github.com/pierangeloc) a ray tracer to learn ZIO modules
 * [zio3D](https://github.com/wongelz/zio3d): An experimental 3D game built with ZIO and OpenGL (LWJGL)
+- [ZIO modules with different implementations - Code for the 'Decouple the Program from its Implementation...' blog post 12/2019](https://github.com/pme123/zio-comps-module) by [pme123](https://github.com/pme123)
+- [Long Polling with ZIO - Code for the 'What can ZIO do for me?' blog post 11/2019](https://github.com/pme123/zio-http4s-long-polling) by [pme123](https://github.com/pme123)
+- [Full Scala Stack, a sample project that uses akka-http, slick, zio, scalajs, react, ScalablyTyped and semantic ui](https://github.com/rleibman/full-scala-stack) by Roberto Leibman
+- [A minimal ZIO giter8 template](https://github.com/jchoffmann/zio-seed.g8) by [jchoffmann](https://github.com/jchoffmann)
 
 
 ## Actor
@@ -162,6 +166,7 @@ These libraries are hosted in the [ZIO organization](https://github.com/zio/) on
 
 _These articles reflect the state of ZIO at the time of their publication. The code samples might be outdated, considering ZIO was early in development at the time they were written. However, the concepts are still relevant._
 
+* [Effective testing with ZIO Test](https://scala.monster/zio-test/) by Pavels Sisojevs (January 2020)
 * [Implementing your future with ZIO](https://scala.monster/welcome-zio/) By Pavels Sisojevs (December 2019)
 * [How to write a command line application with ZIO?](https://scalac.io/write-command-line-application-with-zio/) by Piotr Gołębiewski (November 2019)
 * [Simulating IoT Events with ZIO Streams](https://timpigden.github.io/_pages/zio-streams/GeneratingChillEvents.html) by Tim Pigden (November 2019)
