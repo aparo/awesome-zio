@@ -111,6 +111,7 @@ Based partial on ZIO documentation.
 
 ## Metrics and Monitoring
 
+* [ZIO Metric](https://github.com/zio/zio-metrics): A high-performance, purely-functional library for adding instrumentation to any application, with a simple web client and JMX support.
 * [ZIO Telemetry](https://github.com/zio/zio-telemetry): A ZIO-powered OpenTelemetry library
 
 ## Misc
@@ -130,7 +131,8 @@ Based partial on ZIO documentation.
 * [ZIO SQS](https://github.com/zio/zio-sqs): A ZIO-powered client for AWS SQS
 * [ZIO Keeper](https://github.com/zio/zio-keeper): A functional library for consistent replication of metadata across dynamic clusters
 * [SwayDB](https://github.com/simerplaha/SwayDB): [Embeddable persistent & in-memory database](http://www.SwayDB.io)
-* [zio-kinesis](https://github.com/svroonland/zio-kinesis): ZIO Kinesis is a ZIO-based wrapper around the AWS Kinesis SDK. All operations are non-blocking. It provides a streaming interface to Kinesis streams. Currently a work in progress.
+* [zio-amqp](https://github.com/svroonland/zio-amqp): ZIO AMQP is a ZIO-based wrapper around the RabbitMQ client. It provides a streaming interface to AMQP queues and helps to prevent you from shooting yourself in the foot with thread-safety issues.
+* [zio-kinesis](https://github.com/svroonland/zio-kinesis): ZIO Kinesis is a ZIO-based wrapper around the AWS Kinesis SDK. All operations are non-blocking. It provides a streaming interface to Kinesis streams. 
 * [zio-rocksdb](https://github.com/zio/zio-rocksdb): A ZIO-based interface to RocksDB.
 
 
