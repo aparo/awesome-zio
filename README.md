@@ -58,7 +58,7 @@ Based partial on ZIO documentation.
 - [A minimal ZIO giter8 template](https://github.com/jchoffmann/zio-seed.g8) by [jchoffmann](https://github.com/jchoffmann)
 
 
-## Actor
+## Actors
 
 * [ZIO Actors](https://github.com/zio/zio-actors): A high-performance, purely-functional library for building, composing, and supervising typed actors based on ZIO
 * [ZIO Akka Cluster](https://github.com/zio/zio-akka-cluster): A ZIO wrapper for Akka Cluster
