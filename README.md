@@ -58,7 +58,7 @@ Based partial on ZIO documentation.
 - [A minimal ZIO giter8 template](https://github.com/jchoffmann/zio-seed.g8) by [jchoffmann](https://github.com/jchoffmann)
 
 
-## Actor
+## Actors
 
 * [ZIO Actors](https://github.com/zio/zio-actors): A high-performance, purely-functional library for building, composing, and supervising typed actors based on ZIO
 * [ZIO Akka Cluster](https://github.com/zio/zio-akka-cluster): A ZIO wrapper for Akka Cluster
@@ -126,6 +126,7 @@ Based partial on ZIO documentation.
 
 ## NoSQL
 
+* [ZIO-JMS](https://github.com/dobrynya/zio-jms): ZIO-JMS adapts JMS API to ZIO streams and makes it working more conveniently and seamlessly integrates ZIO
 * [ZIO Kafka](https://github.com/zio/zio-kafka): A Kafka client for ZIO and ZIO Streams
 * [zio-kafka-registry](https://github.com/TimPigden/zio-kafka-registry): Project to use zio-kafka in combination with the Confluent Schema Registry.
 * [zio-elasticsearch](https://github.com/aparo/zio-elasticsearch): ElasticSearch client for Scala based on ZIO and FP by [Alberto Paro](https://github.com/aparo) 
