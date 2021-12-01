@@ -75,6 +75,7 @@ Based partial on ZIO documentation.
 ## Database
 
 * [zio-slick](https://github.com/rleibman/zio-slick): Bridge library between ZIO and Slick Functional Relational Mapping Library
+* [quill](https://getquill.io/): ZIO friendly compile-time query generating library
 
 ## Dependency Injection
 
