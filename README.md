@@ -27,6 +27,7 @@ Based partial on ZIO documentation.
     - [Misc](#misc)
     - [NoSQL](#nosql)
     - [Sample](#sample)
+    - [Testing](#testing)
 - [Official ZIO Libraries](#official-zio-libraries)
 - [Blog Articles](#blog-articles)
 - [Talks](#talks)
@@ -147,6 +148,9 @@ Some repositories that contains useful code to look at.
 
 * [zio-cookbook](https://github.com/Neurodyne/zio-cookbook): Cookbook apps for ZIO
 
+## Testing
+
+* [zio-diffx](https://github.com/bbarker/zio-diffx): Tiny library for [diffx](https://github.com/softwaremill/diffx) and zio-test integration (diffx will will find and display mismatches between data structures).
 
 ## Official ZIO Libraries
 
